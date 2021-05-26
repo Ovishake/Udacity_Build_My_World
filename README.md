@@ -1,7 +1,8 @@
 # Udacity_Build_My_World
 Udacity's Build my world repository
 
-![default_gzclient_camera(1)-2021-05-26T04_06_38 137232](https://user-images.githubusercontent.com/44063372/119601031-d55a1100-bdd7-11eb-9615-ae99a8d37f0c.jpg)
+![default_gzclient_camera(1)-2021-05-26T03_59_39 929521](https://user-images.githubusercontent.com/44063372/119601241-413c7980-bdd8-11eb-8f72-903e5edcee05.jpg)
+
 
 ### environment variables
 export GAZEBO_PLUGIN_PATH=${GAZEBO_PLUGIN_PATH}:/home/workspace/build
