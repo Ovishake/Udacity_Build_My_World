@@ -1,7 +1,7 @@
 # Udacity_Build_My_World
 Udacity's Build my world repository
 
-![default_gzclient_camera(1)-2021-05-26T03_59_39 929521](https://user-images.githubusercontent.com/44063372/119601241-413c7980-bdd8-11eb-8f72-903e5edcee05.jpg)
+![default_gzclient_camera(1)-2021-06-24T02_54_02 801472](https://user-images.githubusercontent.com/44063372/123196733-fcb90200-d499-11eb-9b78-c1569229b4fd.jpg)
 
 
 ### environment variables
